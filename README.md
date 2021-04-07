@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @liubr1491
+- 👋 Hi, I’m Birong Liu, @liubr1491
 - 👀 I’m interested in java, photography and so on.
-- 🌱 I’m currently learning java architecture
+- 🌱 I’m currently learning java architecture.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me liubr1491@163.com
 
