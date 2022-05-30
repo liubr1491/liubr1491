@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java architecture.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me liubr1491@163.com
-- ✨ My blog homepage, https://juejin.cn/user/1310273590294168/posts @空歌、白石
+- ✨ My blog homepage, https://juejin.cn/user/1310273590294168/posts @空歌白石、
 
 <!---
 liubr1491/liubr1491 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
